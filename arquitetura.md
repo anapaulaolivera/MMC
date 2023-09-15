@@ -11,7 +11,7 @@
 
  Segundo "A Lei de Moore prevê que o número de transistores por dispositivo dobrará a cada dois anos. A Lei de Moore é e sempre foi impulsionada pela inovação."
 
-Seundo  "Arquiteturas ARM são o tipo de design eletrônico mais comum do mundo, ainda que a x86 seja a mais comum do mercado. Arquiteturas ARM são usadas em quase todos os designs de smartphone, além de em laptots e outros dispositivos menores."
+Segundo  "Arquiteturas ARM são o tipo de design eletrônico mais comum do mundo, ainda que a x86 seja a mais comum do mercado. Arquiteturas ARM são usadas em quase todos os designs de smartphone, além de em laptots e outros dispositivos menores."
 
 
 
