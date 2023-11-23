@@ -7,11 +7,11 @@
  Segundo INFORMÁTICA, P. C. Builder. "A arquitetura de 32 bits, também conhecida como x86, foi desenvolvida pela Intel na década de 1980. Ela utiliza processadores que são capazes de manipular dados em blocos de 32 bits por vez. Os sistemas operacionais e programas escritos para essa arquitetura foram projetados para trabalhar com essa quantidade de informaçã
  O principal limite da arquitetura de 32 bits é a quantidade máxima de memória que ela pode acessar. A arquitetura de 32 bits pode gerenciar apenas até 4 GB de memória RAM, o que é insuficiente para muitas das aplicações modernas e jogos que exigem mais memória para funcionar corretamente."
 
- Segundo  "A arquitetura de 64 bits, também conhecida como x64 ou x86-64, foi introduzida pela AMD no início dos anos 2000 e posteriormente adotada pela Intel. Essa arquitetura permite que os processadores manipulem blocos de dados de 64 bits por vez, aumentando significativamente a quantidade de informações que podem ser processadas simultaneamente.A maior vantagem da arquitetura de 64 bits é sua capacidade de acessar muito mais memória RAM do que a arquitetura de 32 bits. Os sistemas de 64 bits podem gerenciar teoricamente até 18 exabytes de RAM (isso é 18 bilhões de gigabytes), embora os limites práticos sejam muito menores devido às restrições atuais de hardware."
+ Segundo INFORMÁTICA, P. C. Builder. "A arquitetura de 64 bits, também conhecida como x64 ou x86-64, foi introduzida pela AMD no início dos anos 2000 e posteriormente adotada pela Intel. Essa arquitetura permite que os processadores manipulem blocos de dados de 64 bits por vez, aumentando significativamente a quantidade de informações que podem ser processadas simultaneamente.A maior vantagem da arquitetura de 64 bits é sua capacidade de acessar muito mais memória RAM do que a arquitetura de 32 bits. Os sistemas de 64 bits podem gerenciar teoricamente até 18 exabytes de RAM (isso é 18 bilhões de gigabytes), embora os limites práticos sejam muito menores devido às restrições atuais de hardware."
 
- Segundo "A Lei de Moore prevê que o número de transistores por dispositivo dobrará a cada dois anos. A Lei de Moore é e sempre foi impulsionada pela inovação."
+ Segundo intel.com.br"A Lei de Moore prevê que o número de transistores por dispositivo dobrará a cada dois anos. A Lei de Moore é e sempre foi impulsionada pela inovação."
 
-Seundo  "Arquiteturas ARM são o tipo de design eletrônico mais comum do mundo, ainda que a x86 seja a mais comum do mercado. Arquiteturas ARM são usadas em quase todos os designs de smartphone, além de em laptots e outros dispositivos menores."
+Segundo  "Arquiteturas ARM são o tipo de design eletrônico mais comum do mundo, ainda que a x86 seja a mais comum do mercado. Arquiteturas ARM são usadas em quase todos os designs de smartphone, além de em laptots e outros dispositivos menores."
 
 
 

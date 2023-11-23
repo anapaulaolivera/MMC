@@ -1,0 +1,34 @@
+
+Configura��o de IP do Windows
+
+
+Adaptador Ethernet Ethernet:
+
+   Estado da m�dia. . . . . . . . . . . . . .  : m�dia desconectada
+   Sufixo DNS espec�fico de conex�o. . . . . . : local
+
+Adaptador de Rede sem Fio Conex�o Local* 9:
+
+   Estado da m�dia. . . . . . . . . . . . . .  : m�dia desconectada
+   Sufixo DNS espec�fico de conex�o. . . . . . : 
+
+Adaptador de Rede sem Fio Conex�o Local* 10:
+
+   Estado da m�dia. . . . . . . . . . . . . .  : m�dia desconectada
+   Sufixo DNS espec�fico de conex�o. . . . . . : 
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Sufixo DNS espec�fico de conex�o. . . . . . : 
+   Endere�o IPv6 . . . . . . . . . . : 2804:1264:cb00:300:f879:1c2a:bbc0:8e9e
+   Endere�o IPv6 Tempor�rio. . . . . . . . : 2804:1264:cb00:300:2d0f:fdd3:464b:47a0
+   Endere�o IPv6 de link local . . . . . . . . : fe80::4370:d873:750e:215%4
+   Endere�o IPv4. . . . . . . .  . . . . . . . : 192.168.1.125
+   M�scara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Gateway Padr�o. . . . . . . . . . . . . . . : fe80::c225:2fff:fe45:83e2%4
+                                                 192.168.1.1
+
+Adaptador Ethernet Conex�o de Rede Bluetooth:
+
+   Estado da m�dia. . . . . . . . . . . . . .  : m�dia desconectada
+   Sufixo DNS espec�fico de conex�o. . . . . . : 
