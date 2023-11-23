@@ -36,9 +36,7 @@ INFORMÁTICA, P. C. Builder. Arquitetura 32 e 64 bits: Entenda as Diferenças. D
 
 INFORMÁTICA, P. C. Builder. Arquitetura 32 e 64 bits: Entenda as Diferenças. Disponível em: <https://www.pcbuilder.com.br/post/diferenca-arquiteturas-sistemas-32-64-bits>. Acesso em: 14 set. 2023.
 
-https://www.intel.com.br/content/www/br/pt/newsroom/opinion/moore-law-now-and-in-the-future.html#:~:text=A%20Lei%20de%20Moore%20prev%C3%AA,o%20presente%20e%20o%20futuro.
+Disponível em: <https://www.intel.com.br/content/www/br/pt/newsroom/opinion/moore-law-now-and-in-the-future.html#:~:text=A %20Lei%20de%20Moore%20prev%C3%AA,o%20presente%20e%20o%20futuro>. Acesso em: 15 conjuntos. 2023.
 
-https://www.redhat.com/pt-br/topics/linux/what-is-arm-processor#compara%C3%A7%C3%A3o-entre-arm-e-x86
-
-
+O que é um processador ARM? Disponível em: <https://www.redhat.com/pt-br/topics/linux/what-is-arm-processor>. Acesso em: 15 conjuntos. 2023.
 
