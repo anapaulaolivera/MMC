@@ -11,15 +11,7 @@ Uma partição lógica é um volume criado dentro de uma partição estendida em
 Partições lógicas são semelhantes a partições primárias. No entanto, embora apenas quatro partições primárias possam existir em um único disco, o número de partições lógicas que podem existir em um disco é ilimitado. Uma partição lógica pode ser formatada e atribuída uma letra de unidade.
 Uma partição lógica deve ser criada dentro de uma partição estendida. Se uma partição estendida ainda não existir no disco ou o tamanho especificado da unidade lógica exceder a partição estendida, nenhuma partição será criada.
 
-
-
-
-
-
-
-
-
-
+Uma partição swap (pelo menos 256 MB) — partições swap são usadas para suportar a memória virtual. Em outras palavras, os dados são gravados numa partição swap quando não há memória RAM suficiente para armazenar os dados que seu sistema está porocessando.
 
 
 
@@ -34,4 +26,5 @@ https://www.minitool.com/pt/particao-disco/particao-primaria-x-unidade-logica.ht
 
 WINDOWS-DRIVER-CONTENT. Tipo. Microsoft.com. Disponível em: <https://learn.microsoft.com/pt-br/windows-hardware/customize/desktop/unattend/microsoft-windows-setup-diskconfiguration-disk-createpartitions-createpartition-type>. Acesso em: 27 out. 2023.
 
-Como instalar o mesmo Windows em vários PCs. EaseUS. Disponível em: <https://br.easeus.com/backup-recovery/instalar-so-em-varios-computadores-ao-mesmo-tempo.html>. Acesso em: 27 out. 2023.
+
+PRODUCT SIGNING (GPG) KEYS. 9.15.5. Esquema de particionamento recomendado. Disponível em: <https://access.redhat.com/documentation/pt-br/red_hat_enterprise_linux/6/html/installation_guide/s2-diskpartrecommend-x86>. Acesso em: 23 nov. 2023.
